@@ -170,7 +170,7 @@ private async Task OnPlayerJoined(PlayerJoinedEvent eventArgs)
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/LabFramework.git
+git clone https://github.com/CrazyLab/LabFramework.git
 cd LabFramework
 
 # Restore dependencies
@@ -221,9 +221,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Documentation**: [Wiki](https://github.com/your-repo/LabFramework/wiki)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/LabFramework/issues)
-- **Discord**: [Join our Discord](https://discord.gg/your-invite)
+- **Documentation**: [Wiki](https://github.com/CrazyLab/LabFramework/wiki)
+- **Issues**: [GitHub Issues](https://github.com/CrazyLab/LabFramework/issues)
+- **Discord**: [Join our Discord](https://discord.gg/mBEvmSKJPc)
 
 ## Comparison with EXILED
 
